@@ -1,4 +1,5 @@
 <?php
+//some random comment
 function add_elementor_widget_categories( $elements_manager ) {
 
     $elements_manager->add_category(
